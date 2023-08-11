@@ -2,6 +2,8 @@
 
 Essa repositório armazena uma versão em markdown do [OWASP WSTG](https://owasp.org/www-project-web-security-testing-guide/v42/) para ser utilizada como uma referência rápida durante testes de invasão em aplicações web em tempo real.
 
+OBS: ESSE PROJETO ESPELHA A VERSÃO 4.2 DO WSTG. VERIFIQUE SE EXISTE UMA RELEASE MAIS RECENTE NO SITE OFICIAL.
+
 # Como Funciona?
 
 Apesar de ser markdown puro, que pode ser visualizado em qualquer leitor de markdown, a ideia do projeto é que seja utilizado no [Obsidian](https://obsidian.md) utilizando o plig-in Kanban, que renderiza um dos arquivos como um board Kanban que separa tudo nas categorias e tipos de testes cobertos pelo projeto, conforme imagem abaixo:
