@@ -114,7 +114,7 @@ kanban-plugin: basic
 - [ ] [[WSTG-CRYP-04 - Test for Weak Encryption]]
 
 
-## [[../web testing guide/WSTG-BUSL - Business Logic Introduction|Business Logic Testing]]
+## [[WSTG-BUSL - Business Logic Introduction]]
 
 - [ ] [[WSTG-BUSL-01 - Test Business Logic Data Validation]]
 - [ ] [[WSTG-BUSL-02 - Test Ability to Forge Requests]]
